@@ -30,7 +30,7 @@ Aqui foram criados e armazenados os documentos de desenvolvimento do sistema com
 - Protótipo de Baixa Fidelidade
 - Protótipo de Alta Fidelidade
 - Projeto codificado alocado no GIT
-- Backups de documentação em nuvem e GIT![image](https://user-images.githubusercontent.com/56809101/175815662-7d5e856c-e164-4d82-b446-94472abccb51.png)
+- Backups de documentação em nuvem e GIT
 
 
 ## Stack e Ferramentas
