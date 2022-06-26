@@ -38,6 +38,6 @@ Aqui foram criados e armazenados os documentos de desenvolvimento do sistema com
 
 ## Stack e Ferramentas
 
-- Linguagem de Programação: Javascript
-- Banco de Dados: PostgreSQL
-- SGBD: pgAdmin 4 v4
+* Linguagem de Programação:
+    * Admin: Java, Angular, Javascript, Springboot
+    * Mobile: React Native, Type/Javascript
