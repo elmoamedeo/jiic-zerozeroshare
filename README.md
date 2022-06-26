@@ -1,5 +1,7 @@
 # jiic-zerozeroshare
 
+![alt text](https://github.com/elmoamedeo/jiic-zerozeroshare/blob/15972d8893badb71b66fd292374f449bfa7b96f8/$hare%20logo%20(1).png)
+
 ## Trabalho de TCC Cesusc - aula PMI - Ibsem Dias
 Desenvolvimento de uma tela de login completa na disciplina de PMI 2 - Curso de ADS - Cesusc
 
