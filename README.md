@@ -18,6 +18,7 @@ de cliente e profissional; gerando relatórios na plataforma e comprovantes às 
 ## Documentação
 
 Aqui foram criados e armazenados os documentos de desenvolvimento do sistema como um todo. São eles:
+```
 - Documento de Visão
 - Model Business Canvas
 - Levantamento de Requisitos
@@ -33,7 +34,7 @@ Aqui foram criados e armazenados os documentos de desenvolvimento do sistema com
 - Protótipo de Alta Fidelidade
 - Projeto codificado alocado no GIT
 - Backups de documentação em nuvem e GIT
-
+```
 
 ## Stack e Ferramentas
 
