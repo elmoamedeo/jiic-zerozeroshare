@@ -43,5 +43,5 @@ Aqui foram criados e armazenados os documentos de desenvolvimento do sistema com
     * Mobile: React Native, Type/Javascript
 
 ## Vídeos de projeto e TCC
-https://drive.google.com/file/d/1sQQhF6gdNJBiLqsXaCP8fgiMqcGh202w/view?usp=sharing
-https://drive.google.com/file/d/1drAI9SF-ehiTx52kYZFNAPKxFfbByBs0/view?usp=sharing
+- https://drive.google.com/file/d/1sQQhF6gdNJBiLqsXaCP8fgiMqcGh202w/view?usp=sharing
+- https://drive.google.com/file/d/1drAI9SF-ehiTx52kYZFNAPKxFfbByBs0/view?usp=sharing
