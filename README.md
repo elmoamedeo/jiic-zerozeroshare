@@ -45,3 +45,6 @@ Aqui foram criados e armazenados os documentos de desenvolvimento do sistema com
 ## Vídeos de projeto e TCC
 - https://drive.google.com/file/d/1sQQhF6gdNJBiLqsXaCP8fgiMqcGh202w/view?usp=sharing
 - https://drive.google.com/file/d/1drAI9SF-ehiTx52kYZFNAPKxFfbByBs0/view?usp=sharing
+
+## Documento explicativo para instalação em mobile
+- https://docs.google.com/document/d/1lFA4Ei6zxmuOztixDEEsGyg5qIkGMwWPjH6b4EJxphg/edit?usp=sharing
